@@ -16,7 +16,9 @@ A virus is spreading that causes hallucinations. Its origin is unexplained until
 Past the point of no return - but not imminent death. The truth changes nothing practically. They cannot stop. They cannot turn back. They cannot reach the Architects or hold anyone accountable. The population will continue living and dying aboard the Aphelion indefinitely, as specimens, as they always have, as their children will. Survival without hope or purpose is its own kind of annihilation.
 
 ## Characters
-The protagonist is a woman in her twenties or thirties. Her mother is the other central character, making the emotional core a mother-daughter relationship. Both were born into this life with no choice, inheriting someone else's mission and someone else's secrets. There are other crew and population members aboard - this is not an isolated two-person story. Character names are yet to be developed.
+The protagonist is a woman in her twenties or thirties. Her mother is the other central character, making the emotional core a mother-daughter relationship. Both were born into this life with no choice, inheriting someone else's mission and someone else's secrets. There are other crew and population members aboard - this is not an isolated two-person story. 
+
+Refer to CHARACTERS.md for further details about characters.
 
 ## The Ending
 Ambiguous and quietly hopeful rather than purely nihilistic. The protagonist knows every unbearable truth and still finds some small defiant reason to continue. The key may be something the Architects failed to account for in their cold calculations - something fundamentally human that their experiment was never designed to measure. Love, resistance, the mother-daughter bond itself. The experiment was designed to study degradation and collapse but the protagonist represents something the data cannot capture. She cannot change their circumstances but she changes something within them. The darkness earns the flicker of light. It is not rescue. It is not resolution. It is quiet defiance.
@@ -25,4 +27,4 @@ Ambiguous and quietly hopeful rather than purely nihilistic. The protagonist kno
 Very dark. Inspired by the quiet civilizational dissolution, unreliable reality, and two-woman dynamic of Midnight Sun (Twilight Zone) and the feeling of familiar environment becoming alien and unrecognizable from Masks (TNG). Not a possession story. The horror lives in perception, inherited powerlessness, and suppressed truth rather than supernatural agency.
 
 ## Still To Develop
-Character names and details. The specific nature of the hallucinations and how they manifest. The identity and moral complexity of whoever is suppressing the truth aboard the ship. Scene structure and narrative arc.
+The specific nature of the hallucinations and how they manifest. The identity and moral complexity of whoever is suppressing the truth aboard the ship. Scene structure and narrative arc.

@@ -11,6 +11,8 @@ These items must be resolved before chapter writing begins. See STORY_PLAN.md fo
 - Mother: name, age, role, arc. Does she get infected? Does she know something? Does she survive?
 - The Suppressor(s): one person, a small group, or an institution? What is their relationship to the protagonist? Do they believe they are protecting people, or are they simply following Architect protocols so deeply embedded they no longer question them?
 
+ANSWERED: These answers are specified in CHARACTERS.md
+
 ---
 
 ## 2. The Hallucinations
@@ -21,6 +23,7 @@ These items must be resolved before chapter writing begins. See STORY_PLAN.md fo
 - Does the protagonist hallucinate, or does she remain partially clear-eyed as a narrative device?
 - Does the mother hallucinate? If so, how does this manifest in their relationship?
 
+ANSWERED: These answers are specified in HALLUCINATIONS_AND_SUPPRESSORS.md
 ---
 
 ## 3. The Suppressor(s) — Identity and Moral Complexity
@@ -30,6 +33,8 @@ These items must be resolved before chapter writing begins. See STORY_PLAN.md fo
 - Key question: is the suppression active and ongoing, or is it cultural/institutional inertia — people following rules whose original purpose has been forgotten?
 - What does the protagonist risk by getting close to this person or group?
 - Is there a moment of sympathy for the suppressor(s), or only horror?
+
+ANSWERED: These answers are specified in HALLUCINATIONS_AND_SUPPRESSORS.md
 
 ---
 
@@ -42,6 +47,8 @@ These items must be resolved before chapter writing begins. See STORY_PLAN.md fo
 - At what point in the story does each layer of truth surface (virus origin / destination truth / ship name meaning)?
 - What does the final scene look like concretely? "Quiet defiance" is a feeling — what is she actually *doing*?
 
+ANSWERED: These answers are specified in NARRATIVE_ARC.md
+
 ---
 
 ## 5. Ship's Culture
@@ -53,3 +60,5 @@ These items must be resolved before chapter writing begins. See STORY_PLAN.md fo
 - What does daily life look like — work, hierarchy, ritual, leisure?
 - What is the ship's physical environment? (Important for atmosphere and the "familiar becoming alien" horror.)
 - This baseline must be established so readers feel what "normal" looks like before the dissolution begins.
+
+ANSWERED: These answers are specified in SHIP_CULTURE.md

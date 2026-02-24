@@ -4,11 +4,15 @@
 All high-level story ideas, themes, and structural decisions are documented in `STORY_PLAN.md`. This file should be read and understood before any writing begins.
 
 ## Current Status
-The overall story concept is largely established but several key details remain to be worked out before actual writing begins. Refer to the **Still To Develop** section of `STORY_PLAN.md` for the current outstanding items. No chapter or poem writing should begin until those remaining elements are resolved.
+Pre-writing is complete. Characters, hallucinations, suppressors, narrative arc, and ship culture are all fully developed across the planning documents. Writing may now begin with Chapter 1.
 
 ## Project Structure
 - `STORY_PLAN.md` — High-level story plan and development notes
 - `CONTEXT.md` — This file. Style notes and project instructions
+- `CHARACTERS.md` - The main characters
+- `SHIP_CULTURE.md` - The culture and life of the ship's crew
+- `HALLUCINATIONS_AND_SUPPRESSORS.md` - Details about the hallucinations brought on by the virus as well as those actively suppressing data from the protaginist
+- `NARRATIVE_ARC.md` - Narrative arc and scene structure
 - `chapters/` — Chapter text files, created once writing begins
 - `poems/` — Accompanying poetry text files, to be created after the story is completed
 - `TODO.md` - Prioritized list of uncompleted tasks
