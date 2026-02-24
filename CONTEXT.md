@@ -11,6 +11,7 @@ The overall story concept is largely established but several key details remain 
 - `CONTEXT.md` — This file. Style notes and project instructions
 - `chapters/` — Chapter text files, created once writing begins
 - `poems/` — Accompanying poetry text files, to be created after the story is completed
+- `TODO.md` - Prioritized list of uncompleted tasks
 
 ## Protagonist
 The protagonist is referred to in third person throughout, using she/her pronouns.
