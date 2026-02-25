@@ -33,6 +33,10 @@ Children are educated collectively. Family exists but is somewhat diffuse - the 
 
 A formal phrase of Architect acknowledgment is spoken at the start of meals and work shifts. Most people say it without hearing it anymore.
 
+## On Deep Sleep and Stasis
+
+The Aphelion has no deep sleep or stasis capability available to its population - or if such technology once existed aboard, it has long since ceased to function or was never made available to those living on the ship. The population has always been fully awake, fully present, living and dying within the Aphelion across generations. There are no interruptions to consciousness, no gaps in lived experience. The ship is not a vessel they pass through in sleep - it is the only world they have ever known, waking and breathing and continuous. This is the source of both the culture's remarkable cohesion and its profound, unexamined claustrophobia.
+
 ## The Ship's Physical Environment
 
 The Aphelion feels lived-in, worn, and layered. Generations of habitation have left their marks. Original surfaces have been repaired, repainted, and repurposed so many times that the ship's original design is visible only in its bones. There is beauty in some of it - murals accumulated over generations in common areas, small gardens of engineered plants under artificial light, spaces that have been made human despite everything.
@@ -40,6 +44,16 @@ The Aphelion feels lived-in, worn, and layered. Generations of habitation have l
 But there is a persistent sense of confinement that nobody consciously acknowledges because acknowledging it would be unbearable. Ceilings that feel lower than they should. Corridors that repeat. Light that is always artificial and always the same. No weather. No horizons. No outside.
 
 The archive where Calla works is deep in the ship - old, dense with physical and digital records, the accumulated memory of generations, dimly lit. The kind of space that feels as though it has absorbed decades of quiet work. It is simultaneously her sanctuary and her trap. The one place where she has total authority and competence, increasingly surrounded by a ship dissolving into something unrecognizable.
+
+## Named Locations
+
+**The Nave** — The main central corridor running the ship's length. The primary artery connecting all sections. People pass through it rather than linger; it is the ship in motion, the place of brief encounters and ambient observation. The name carries a faint ecclesiastical echo that nobody thinks about anymore — fitting, given the Architects' quasi-religious status in the culture.
+
+**The Common** — The communal eating and gathering space. The social heart of the ship where meals are shared, announcements made, community maintained. Generational and egalitarian. The formal Architect acknowledgment phrase is spoken here before meals.
+
+**The Stacks** — What those who work in the archive call it. Not ceremonial, purely functional: the physical and digital records stacked and layered in the ship's lower decks, near infrastructure and engineering. Calla's domain. Old, dim, dense with accumulated memory. Cassian has a workspace above the main floor — accessible from the same descent but slightly elevated, fitting his senior rank.
+
+**Residential Mid-Tier** — The main inhabited belt of the ship, where most of the population lives. Calla and Lisel's adjacent quarters are here. To reach the Stacks from their quarters, Calla descends through progressively quieter corridors — past maintenance access, past the smell of machinery, into the lower ship. The daily journey is a transition from community to solitude.
 
 ## The Environment as the Hallucinations Spread
 

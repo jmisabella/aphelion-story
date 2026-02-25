@@ -30,6 +30,18 @@ The one common thread across all infected individuals despite their different vi
 
 The hallucinations are not immediately fatal but are progressively debilitating. They worsen over time, eroding the ability to distinguish reality, to function, to care for oneself. A person lost deeply enough in hallucination eventually drifts - stops eating, stops maintaining themselves, dissolves slowly. This is a quiet and terrible deterioration rather than sudden death, in keeping with the story's tone of accumulated dread over spectacle.
 
+## Status at Story Opening
+
+At the start of the story, the hallucinations are hidden from the general population — early, private, and not yet a public event. Dozens of people are infected, but cases are being managed quietly.
+
+The Continuance operates two parallel narratives simultaneously:
+- **To the general population:** no official explanation has been offered. Cases are absorbed into the background noise of ship life — attributed to the familiar, catch-all explanation of confinement fatigue or disrupted sleep cycles if they surface in conversation at all.
+- **To medical workers:** a minor contained illness has been quietly communicated as requiring monitoring. Medical staff like Lisel are aware cases exist and are treating symptoms, but they operate under an incomplete explanation — not knowing the true nature or origin.
+
+This two-track approach allows the Continuance to keep the population calm while involving medical infrastructure in management, without either group possessing the full picture.
+
+Calla, at the story's opening, carries a vague unattributed sense that something is wrong — she has registered things without consciously processing them. A colleague who seemed elsewhere. Someone moving through a corridor with unfamiliar purposefulness. Nothing she has named or connected. The investigation hasn't begun yet; the unease is pre-linguistic.
+
 ## Calla's Immunity
 
 Calla does not have the virus - not yet. Her resistance is not genetic or accidental. Lisel, her mother, sensing something deeply wrong long ago without ever having language for it, did something to protect her daughter without fully understanding why. Whether this was a quiet medical intervention, something introduced into Calla's routine care as a child, or something else is left deliberately ambiguous. Lisel may not even fully remember it as a deliberate act.

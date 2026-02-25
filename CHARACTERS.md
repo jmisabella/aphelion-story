@@ -30,6 +30,17 @@ Age: Older (exact age TBD)
 Role: Senior Continuance Member
 Vesper knows significantly more than most Continuance members and has carried that knowledge for a long time. This person has made a private peace with it, or tried to. When Calla finally reaches Vesper the reader feels the full weight of what it costs to know the truth and choose silence anyway. Not sympathetic exactly, but tragically comprehensible. Vesper believes the population is better off not knowing — and may even be correct that knowing changes nothing practically. That ambiguity is intentional and important.
 
+Minor Characters
+
+Davan
+Age: younger than Calla (late twenties, approximate)
+Role: Junior Archivist
+Davan works under Calla in the Stacks and is in the process of being trained into the role — earnest, competent, not yet fully initiated into the archive's depth or complexity. Their presence creates contrast with Calla's growing unease: someone who still sees the work clearly, before clarity becomes a burden. Later, Davan's proximity to the archive raises stakes — another person who might find what Calla found, or who might be used against her.
+
+Fen
+Role: Ship's population, vague acquaintance
+A familiar face Calla knows from the Nave or the Common — not a friend, but one of dozens of people whose face she can attach a name to from years of shared ship life. Fen is the first person Calla half-notices behaving strangely: moving along the Nave with an odd, pulled purposefulness, drawn somewhere without knowing why. Calla registers it and doesn't quite register it. The moment passes. It is the story's first ambient signal — the world slightly wrong in a way she hasn't found language for yet. Fen may recur later as the hallucinations spread.
+
 Relationships at a Glance
 
 Calla and Lisel: mother and daughter, emotional core of the story

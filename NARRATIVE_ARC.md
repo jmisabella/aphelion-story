@@ -17,6 +17,22 @@ Exact chapter count to be determined organically during drafting but seven to ni
 Calla notices a ghost file in the archive system - a gap where something should be, the shadow left behind when the Continuance classified an intercepted signal. She does not find the signal itself. She finds the shape of its absence. An archivist would notice a hole in the record before anyone else would. This is her entry point and the event that sets everything in motion.
 Chapter one establishes Calla, Lisel, and the world of the Aphelion before this discovery. The reader needs something to lose alongside Calla before the walls begin closing in. Chapter two is where she finds the gap.
 
+## Chapter 1 Scene Structure
+
+### Scene 1 — The Nave (Opening)
+Calla walks to work along the Nave, the ship's central corridor. Morning rhythm, the ship in ordinary motion. She knows this route and these faces. Near the midpoint of her commute she passes Fen — someone she vaguely recognizes from years of shared ship life, a face she can attach a name to — and registers something off. Fen is moving with an unusual purposefulness, pulled in a direction that doesn't make complete sense, not looking at anything Calla can see. It passes in a moment. Calla continues walking. She doesn't know what she noticed. This is the chapter's first signal of wrongness: pre-linguistic, unattributed, already receding.
+
+### Scene 2 — The Stacks (Work)
+Calla descends to the archive. Routine work: maintenance of records, cataloguing, the quiet accumulation of institutional memory. Davan is present — the junior archivist she is training, earnest and steady, still seeing the work simply. Their interaction establishes the texture of the archive, Calla's authority and competence in her domain, and the particular kind of person she is: methodical, careful, someone who notices what others miss. The Stacks itself is established as a place of density and dim light, old and accumulated, her sanctuary.
+
+### Scene 3 — Lisel's Quarters (Mid-Chapter)
+Calla surfaces from the Stacks and makes her way through the ship to visit Lisel. The contrast with the archive is immediate: warmer, closer, the sound and texture of the residential mid-tier. Their interaction establishes the relationship's particular quality — unusually close for a culture where community is the primary unit of belonging, a closeness that is also slightly its own world. Lisel mentions patients in passing, the way a medical worker does — nothing alarming, just the background noise of her work. Calla doesn't register it as significant. They part warmly.
+
+### Scene 4 — The Stacks (Closing)
+Calla returns to the Stacks to close out the day's work. In the course of finishing she pulls a routine file and finds something small: a record that doesn't quite match what it should. A date misaligned, a cross-reference that leads nowhere, the kind of minor inconsistency that could be error or oversight. She notes it, files it mentally, doesn't pursue it. She closes the Stacks and leaves. But the detail stays with her in a way she can't fully account for — the archivist's instinct that something doesn't add up, not yet threatening, just present.
+
+**Chapter 1 closes here.** Calla returns home. Nothing has broken yet. But the reader carries three things: the wrongness on the Nave (Fen), the warmth of Lisel, and the detail in the Stacks that didn't quite fit. The chapter has established what exists before it begins to dissolve.
+
 ## Shape of Discovery
 
 Gradual accumulation rather than a single rupture. Each piece Calla uncovers raises more questions than it answers. The mentor's warnings escalate in parallel with her discoveries. Lisel's infection arrives when Calla is already too deep to step back. The accumulation structure mirrors the hallucinatory atmosphere of the ship - the reader's sense of reality should feel as gradually unstable as the population's, even though Calla herself remains clear-eyed throughout.
