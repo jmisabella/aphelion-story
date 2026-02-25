@@ -81,7 +81,7 @@ They talked the way they usually talked: the shape of the day, small observation
 
 "They've been in to see you about it?"
 
-"A couple of times now. It's probably nothing — the cycles affect people differently, some people are more sensitive." She picked up the ceramic cup, found it empty, set it down again. For a moment she seemed to be listening to something — her gaze going briefly elsewhere, as though she'd caught a sound she wasn't certain she'd heard — and then she was back. "I've seen it before. Still."
+"A couple of times now. It's probably nothing — the cycles affect people differently, some people are more sensitive." She picked up the ceramic cup, found it empty, set it down again. For a moment she seemed to listen to something distant — her gaze drifting elsewhere, as though catching a sound just below hearing — then she was back. "I've seen it before. Still."
 
 "Still," Calla agreed, which was the correct response to the tone of a medical worker saying something like that.
 
@@ -113,7 +113,7 @@ The parent file did not exist.
 
 Not corrupted, not missing in the way records sometimes went missing when physical damage had outpaced digital backup. Just absent. The code pointed to a location in the index and the location was empty. A ghost tag. As though the record had known it was supposed to refer to something and had retained the reference even after the something was gone.
 
-What made her pause — longer than the emptiness alone warranted — was the location itself. The slot the code resolved to was formatted as a Continuance retention location. She had explained to Davan that morning what that designation meant: those records aged independently, outside standard protocol, persisting until someone with Continuance clearance decided otherwise. They did not simply disappear. Standard archive errors didn't reach them.
+What made her pause — longer than the emptiness alone warranted — was the location itself. The slot the code resolved to was a Continuance retention location — those records aged independently, outside standard protocol, persisting until someone with Continuance clearance decided otherwise. They did not simply disappear. Standard archive errors didn't reach them.
 
 Whatever had occupied that slot hadn't aged out. Someone had decided it was gone.
 
