@@ -89,7 +89,9 @@ Read this section instead of re-reading all planning documents and chapters.
 
 ## Poem Plan
 
-Poem 1 is complete. Plan for poems 2–12 follows. Total target: 10 poems (12 if quality allows). Current balance: aim for roughly 5–6 rhyming, 4–5 free verse across the full collection.
+Poem 1 is complete. Plan for poems 2–12 follows. Total target: 10 poems (12 if quality allows). Current balance: aim for roughly 5 rhyming, 5–6 free verse across the full collection (close to 50/50). Despite using consistent thematic language across the plan — "the pull," "the record," "the name" — each poem must feel distinct in register: #3 leans sensory and hypnotic, #7 kinetic and inevitable, #11 intimate and earned. Guard against sameness of tone across the collection even when themes are adjacent.
+
+If doing poem 12, number it last and treat it as a coda — its cosmic distance zooming out and then landing on something small and human gives the collection a satisfying close even in random playback.
 
 **Poem 01 — COMPLETE** | Rhyming | *"By the Design"*
 Truth embedded in everyday language. The daily phrase spoken before thought, passed down through generations, losing meaning while retaining its original intent. The word for home concealing the word for departure. The Arrival unasked-about. Truth sheltering in the commonplace. Ends: *"It was already in your mouth this morning. / It has been there for years."*
@@ -105,8 +107,8 @@ The infected see things no one else can see. Light pooling where it shouldn't. S
 **Poem 04** | Free Verse | Theme: The Unnamed Protection
 A meditation on acting against something you cannot name. A decision made without language — the instinct to protect, translated into quiet action, before understanding what you were protecting against. What it means to stand between your child and a threat you only sense. The protection that works without the protector ever knowing if it worked. Intimate and spare. No sentimentality — the horror lives in the ambiguity: was the protection a gift, or did it make the protected an anomaly the experiment never accounted for? Leave this open.
 
-**Poem 05** | Rhyming | Theme: The Architects
-The perspective of those who designed everything — or the feeling of their presence in every structure, every corridor, every phrase. They are unreachable, unkillable as an idea. They embedded themselves in the mythology, the language, the ritual, the biology of the place. They designed the world and the stories told about the world and the inability to question the world. The experiment was built to observe degradation. They did not design for something. Leave what they failed to account for implicit, not stated — the poem should not resolve the horror into hope.
+**Poem 05** | Free Verse | Theme: The Architects
+The perspective of those who designed everything — or the feeling of their presence in every structure, every corridor, every phrase. They are unreachable, unkillable as an idea. They embedded themselves in the mythology, the language, the ritual, the biology of the place. They designed the world and the stories told about the world and the inability to question the world. Free verse suits this theme: longer lines and enjambment across stanzas can carry the cold cosmic scale, the sense of something vast and patient that cannot be argued with. The experiment was built to observe degradation. They did not design for something. Leave what they failed to account for implicit, not stated — the poem should not resolve the horror into hope.
 
 **Poem 06** | Free Verse | Theme: The Destination That Was Never Theirs
 The place at the end of the journey — what it means to travel toward something that was prepared for other hands. The difference between a destination and a retrieval point. What it means to be cargo. Vast, cold imagery: the void, the distances too large to hold, the indifference of space. The place waits. It does not wait for them. It waits for the ones who sent them. The poem should feel cosmic in scale but intimate in the last lines — the scale pressing down onto specific lives.
@@ -124,6 +126,7 @@ The horror of having lived inside a word your whole life — having been named b
 The act of writing truth into a system built to preserve things, addressed to no one. Not to expose, not to change — those options are gone. But the truth deserves to exist somewhere. The archivist's act: placing a record where the system's own design will keep it, in the climate-controlled dark, patient, exact. The irony: the Architects built the archive to resist erasure — for the experiment's data collection — and did not think through what else that resistance guaranteed. The experiment was designed to observe and record. The observed recorded back.
 
 **Poem 11** | Rhyming | Theme: What the Experiment Did Not Design For
+*TTS title note: the thematic description is accurate but long/clinical for reading aloud — consider a shorter working title like "Not Designed For" or "The Unaccounted" when generating.*
 The ending. The thing that has no field in the data. Not rescue, not resolution — one person refusing to leave another. The grip of a hand used as an anchor. Presence as the only available act. The experiment studied how populations degrade under pressure, isolation, and purposelessness. It recorded everything. It did not account for this. The poem should feel earned rather than hopeful — defiance without triumph, persistence without rescue. The darkness holds. But inside it, something the data cannot capture.
 
 **Poem 12** *(optional, add if quality allows)* | Free Verse | Theme: The Ship's Indifference
