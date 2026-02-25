@@ -11,13 +11,13 @@ Midway along the Nave she saw Fen.
 
 She couldn't have said what made her look. It wasn't anything dramatic — not a sound, not a collision, not the kind of disturbance that draws eyes. Just a shift at the edge of her attention, a small wrongness in the ordinary, and her gaze moved.
 
-Fen was someone she could put a name to without being able to say how well she knew her. They'd shared meals in the Common over the years, exchanged words in passing. A familiar face of the ordinary kind, the kind you accumulate over a lifetime of sharing walls with the same few thousand people. She was somewhere in her forties, or thereabouts. A technician of some kind.
+Fen was someone she could put a name to without being able to say how well she knew her. They'd shared meals in the Common over the years, exchanged words in passing. A familiar face — no more than that. The kind you accumulate over a lifetime of sharing walls with the same few thousand people. She was somewhere in her forties, or thereabouts. A technician of some kind.
 
 She was moving differently than she should have been.
 
 It was subtle enough that Calla couldn't have explained it plainly. Not stumbling, not distressed, nothing outwardly wrong. But Fen was moving with a purposefulness that didn't quite attach to anything visible — drawn in a direction that led nowhere Calla could account for, her gaze fixed on something that wasn't there. There was an uncanny quality to the movement, something animal in it, the way a creature follows a sound below hearing.
 
-And then she was past, and Calla kept walking, and the moment dissolved into the ordinary motion of the Nave the way such moments do.
+And then she was past, and Calla kept walking, and the moment dissolved into the ambient motion of the Nave the way such moments do.
 
 She didn't think about it again.
 
@@ -25,7 +25,7 @@ She didn't think about it again.
 *
 
 
-The descent from the residential tier to the lower ship was its own transition, the same as it always was: sound receding, temperature dropping by a fraction that was probably imaginary, the smell of machinery and time thickening around her as she went down. Past maintenance access points and their faint chemical smell, past the narrowing that marked the boundary of the inhabited mid-tier and the purely functional space below. Down.
+The descent from the residential tier to the lower ship was its own reliable transition: sound receding, temperature dropping by a fraction that was probably imaginary, the smell of machinery and time thickening around her as she went down. Past maintenance access points and their faint chemical smell, past the narrowing that marked the boundary of the inhabited mid-tier and the purely functional space below. Down.
 
 The Stacks had no windows, obviously — nothing on the Aphelion had windows, there was nothing worth looking at outside — but somehow the archive's particular dimness felt like a kind of weather. The overhead lighting was old and steady and did not approximate the morning's warmth. It simply illuminated. She preferred it.
 
@@ -81,7 +81,7 @@ They talked the way they usually talked: the shape of the day, small observation
 
 "They've been in to see you about it?"
 
-"A couple of times now. It's probably nothing — the cycles affect people differently, some people are more sensitive." She picked up the ceramic cup, found it empty, set it down again. "I've seen it before. Still."
+"A couple of times now. It's probably nothing — the cycles affect people differently, some people are more sensitive." She picked up the ceramic cup, found it empty, set it down again. For a moment she seemed to be listening to something — her gaze going briefly elsewhere, as though she'd caught a sound she wasn't certain she'd heard — and then she was back. "I've seen it before. Still."
 
 "Still," Calla agreed, which was the correct response to the tone of a medical worker saying something like that.
 
@@ -113,7 +113,11 @@ The parent file did not exist.
 
 Not corrupted, not missing in the way records sometimes went missing when physical damage had outpaced digital backup. Just absent. The code pointed to a location in the index and the location was empty. A ghost tag. As though the record had known it was supposed to refer to something and had retained the reference even after the something was gone.
 
-She stood with the physical document in her hands for a moment longer than made sense, looking at the empty index return.
+What made her pause — longer than the emptiness alone warranted — was the location itself. The slot the code resolved to was formatted as a Continuance retention location. She had explained to Davan that morning what that designation meant: those records aged independently, outside standard protocol, persisting until someone with Continuance clearance decided otherwise. They did not simply disappear. Standard archive errors didn't reach them.
+
+Whatever had occupied that slot hadn't aged out. Someone had decided it was gone.
+
+She stood with the physical document in her hands and looked at the empty index return.
 
 Then she filed the physical record back in its housing, noted the discrepancy in the day's log as routine — an unresolved cross-reference, to be followed up — and closed out the interface.
 
@@ -127,6 +131,6 @@ She reached her quarters. The door opened. Inside was the ordinary shape of her 
 
 She did not think again about Fen, moving along the Nave that morning with that strange and purposeful pull, fixed on something that wasn't there.
 
-She did not think about it because the moment had passed, as moments do, into the unremarkable accumulation of a normal day.
+She did not think about it because the moment had passed, as moments do, into the accumulation of a day that had asked nothing of her.
 
 Nothing had broken yet.
