@@ -4,13 +4,16 @@ APHELION — NARRATIVE ARC & SCENE STRUCTURE
 
 Seven to nine chapters. The story follows a clear three-act shape with chapters distributed roughly as follows:
 
-- Chapters 1-2: Establishment. Calla's world, her role, her relationship with Lisel, the texture of daily life aboard the Aphelion. Ambient early signs that something is wrong - strange behavior among crew and population, early unreported hallucination symptoms. The inciting incident lands at the end of this act.
+- Roughly Chapters 1-2: Establishment. Calla's world, her role, her relationship with Lisel, the texture of daily life aboard the Aphelion. Ambient early signs that something is wrong - strange behavior among crew and population, early unreported hallucination symptoms. The inciting incident lands at the end of this act.
 
-- Chapters 3-5: Escalation. The investigation deepens, pressure mounts, the mentor's warnings escalate, Lisel becomes infected. Each discovery raises more questions than it answers and tightens the walls around Calla incrementally.
+- Roughly Chapters 3-5: Escalation. The investigation deepens, pressure mounts, the mentor's warnings escalate, Lisel becomes infected. Each discovery raises more questions than it answers and tightens the walls around Calla incrementally.
 
-- Chapters 6-8: Convergence and revelation. Everything the story has been building toward lands here. The final chapter is aftermath and resolution.
+- Roughly Chapters 6-8: Convergence and revelation. Everything the story has been building toward lands here. The final chapter is aftermath and resolution.
 
 Exact chapter count to be determined organically during drafting but seven to nine is the target range.
+
+Important note about chapter count flexibility: Seven to nine is a great target range for this kind of story (tight, focused, no bloat). If it naturally lands at 7, that’s fine; if it breathes a little more in Act II and hits 9, also fine. The important thing is that each chapter advances the accumulation and tightens the walls around Calla.
+
 
 ## Inciting Incident
 
@@ -47,6 +50,9 @@ Calla learns enough about the intercepted signal to understand that a destinatio
 
 The virus origin begins to surface. Calla finds evidence it is not natural — engineered markers in the data, records that should not exist. She understands the virus was deliberately made but not yet by whom or why. This is also the point at which Lisel becomes infected, making the engineered nature of the virus personal and unbearable rather than abstract. The investigation is no longer purely intellectual.
 
+Virus origin reveal timing note: Engineered markers surfacing around Chapter 5, right as Lisel gets infected, is good dramatic placement. Just ensure the “not natural” discovery feels like a gut-punch escalation rather than a logical next step—maybe tie it to something personal (a record Lisel herself generated? a patient file she flagged?).
+
+
 ### Late — Chapter 7 or 8
 
 The triple revelation lands in a single moment of terrible clarity. The destination was never meant for the population. The virus was the Architects' final phase of the experiment, designed to herd and dissolve. And the meaning of the name Aphelion — farthest point from the sun, maximum cold, maximum distance, never returning — clicks into place. One revelation doing all three jobs simultaneously. This is the darkest point in the story. The floor drops out.
@@ -64,3 +70,6 @@ The Architects studied how populations degrade under pressure, isolation, and pu
 The final image: Calla sitting with Lisel in the dark. The hidden archive record existing quietly somewhere in the ship's systems. The Aphelion continuing its journey toward a destination that was never theirs, carrying its cargo of specimens forward through the void.
 
 Quiet. Defiant. Still.
+
+## Follow Up Requested Adjustments:
+
