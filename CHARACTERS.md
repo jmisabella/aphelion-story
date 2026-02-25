@@ -25,6 +25,10 @@ Age: ~51
 Role: Senior Archivist / Continuance-adjacent
 Cassian guided Calla into her role and recommended her for it years ago. She respects and trusts him deeply. He is a mid-level Continuance member who genuinely believes in the institution's protective purpose and does not know the full truth himself. When Calla gets close to something dangerous he warns her off — gently at first, with the warmth of a trusted colleague urging caution. That warmth curdles into something more ominous as Calla pushes further and he is required to act in ways that conflict with who she believed him to be. He is the Continuance's most human and sympathetic face — not evil, but trapped inside the same inherited lie as everyone else, just more deeply embedded in its maintenance.
 
+Cassian’s warnings escalation guideline:
+As Calla’s discoveries deepen, Cassian’s cautions should escalate in urgency but remain conflicted or incomplete each time (e.g., oblique hints at first, then more direct warnings while still withholding key pieces, perhaps due to lingering loyalty to the Continuance or fear of what full knowledge would mean for both of them). This keeps him human, preserves mystery, and prevents him from becoming a plot device or exposition source.
+
+
 The Senior Member: Vesper
 Age: Older (exact age TBD)
 Role: Senior Continuance Member

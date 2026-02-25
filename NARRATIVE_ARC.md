@@ -40,18 +40,23 @@ Calla returns to the Stacks to close out the day's work. In the course of finish
 
 Gradual accumulation rather than a single rupture. Each piece Calla uncovers raises more questions than it answers. The mentor's warnings escalate in parallel with her discoveries. Lisel's infection arrives when Calla is already too deep to step back. The accumulation structure mirrors the hallucinatory atmosphere of the ship - the reader's sense of reality should feel as gradually unstable as the population's, even though Calla herself remains clear-eyed throughout.
 
+#### Cassian’s warnings escalation guideline (see CHARACTERS.md for full profile):
+As Calla’s discoveries deepen (roughly Chapters 3–5), Cassian’s cautions should escalate in urgency but remain conflicted or incomplete each time. Start with gentle, warm, oblique hints from a trusted colleague; become more direct and urgent while still withholding key pieces (due to loyalty to the Continuance and/or fear of what full knowledge would mean for both of them). This preserves his humanity, maintains mystery, and avoids turning him into a plot device or exposition source.
+
 ## Reveal Architecture
 
 ### Early — around Chapter 3
 
 Calla learns enough about the intercepted signal to understand that a destination exists and that it is being actively hidden from the population. She does not yet know what the destination means or why it matters. This is the first rupture — there is somewhere they are going and someone does not want them to know.
 
+
 ### Mid — around Chapter 5
 
 The virus origin begins to surface. Calla finds evidence it is not natural — engineered markers in the data, records that should not exist. She understands the virus was deliberately made but not yet by whom or why. This is also the point at which Lisel becomes infected, making the engineered nature of the virus personal and unbearable rather than abstract. The investigation is no longer purely intellectual.
 
-Virus origin reveal timing note: Engineered markers surfacing around Chapter 5, right as Lisel gets infected, is good dramatic placement. Just ensure the “not natural” discovery feels like a gut-punch escalation rather than a logical next step—maybe tie it to something personal (a record Lisel herself generated? a patient file she flagged?).
+- Virus origin reveal timing note: Engineered markers surfacing around Chapter 5, right as Lisel gets infected, is good dramatic placement. Just ensure the “not natural” discovery feels like a gut-punch escalation rather than a logical next step—maybe tie it to something personal (a record Lisel herself generated? a patient file she flagged?).
 
+- Mid-point reveal check: When writing/drafting the engineered-virus discovery, test whether it feels like the floor dropping out because of the personal connection to Lisel. If it reads too procedural or like “another logical data point,” layer in one small, heartbreaking personal detail—e.g., Calla finds Lisel’s own handwriting, a voice note, or a patient file she personally flagged that now retroactively reads as early infection data. The goal is unbearable intimacy, not just more evidence.
 
 ### Late — Chapter 7 or 8
 
