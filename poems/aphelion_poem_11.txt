@@ -54,7 +54,7 @@ It had fields for how a people surface
 
 into ending. How a system
 yields when the yielding has been planned.
-It had fields for how we fail.
+It had fields failure.
 
 It had no field for the hand.
 
